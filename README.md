@@ -1,2 +1,3 @@
 # JavaExamples
-# test
+
+Detyrat ne Java
