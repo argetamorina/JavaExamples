@@ -1,3 +1,3 @@
 # JavaExamples
 
-Detyrat ne Java
+Detyrat ne Java - Struktura te Dhenave
